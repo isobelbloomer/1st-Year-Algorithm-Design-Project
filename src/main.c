@@ -1,6 +1,10 @@
 /*
-Program: Full program
-Task 1: Read in the data from all files Sort each file of production data by product weight using merge sort
+Program: The goal of the system is to process data from the four production lines, 
+sort them according to weight and then merge them all into a single sorted list to 
+generate a final dispatch list.
+
+Date: 23/04/25
+Author: Isobel Bloomer
 */
 
 #include <stdio.h>
