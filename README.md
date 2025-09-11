@@ -1,6 +1,6 @@
 # C File Project
 
-This is a C program that reads in text files and uses circular queues to merge the data into one list by order of weight.
+This is a C program that reads in text files data and uses circular queues to merge the data into one list by order of weight for a car parts company.
 
 This project received **100%** in Algorithm Design at TU Dublin.
 
